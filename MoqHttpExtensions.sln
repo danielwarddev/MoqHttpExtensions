@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqHttpExtensions", "MoqHttpExtensions\MoqHttpExtensions.csproj", "{93C73281-C1BB-40A0-A9BD-1853514558BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqHttpExtensions.UnitTests", "MoqHttpExtensions.UnitTests\MoqHttpExtensions.UnitTests.csproj", "{27303639-18B9-46C8-8F7D-4671F2A775B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C73281-C1BB-40A0-A9BD-1853514558BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C73281-C1BB-40A0-A9BD-1853514558BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C73281-C1BB-40A0-A9BD-1853514558BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C73281-C1BB-40A0-A9BD-1853514558BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27303639-18B9-46C8-8F7D-4671F2A775B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27303639-18B9-46C8-8F7D-4671F2A775B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27303639-18B9-46C8-8F7D-4671F2A775B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27303639-18B9-46C8-8F7D-4671F2A775B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC1EEE9-2C3E-4E36-8D68-1FB4D94E2C6C}
+	EndGlobalSection
+EndGlobal
